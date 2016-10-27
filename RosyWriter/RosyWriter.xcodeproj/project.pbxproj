@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04EA358E1DC1CE6F006866D5 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04EA358D1DC1CE6F006866D5 /* ReadMe.txt */; };
+		04EA358F1DC1CE6F006866D5 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04EA358D1DC1CE6F006866D5 /* ReadMe.txt */; };
+		04EA35901DC1CE6F006866D5 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04EA358D1DC1CE6F006866D5 /* ReadMe.txt */; };
+		04EA35911DC1CE6F006866D5 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04EA358D1DC1CE6F006866D5 /* ReadMe.txt */; };
 		171999DA19C7695800A719B5 /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 171999D919C7695800A719B5 /* CoreImage.framework */; };
 		1756C9D619BE5E1F0080DD55 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F90DDE51395CAAA00125BDA /* main.m */; };
 		1756C9D719BE5E1F0080DD55 /* RosyWriterAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F90DDE91395CAAA00125BDA /* RosyWriterAppDelegate.m */; };
@@ -27,7 +31,6 @@
 		1756C9EF19BE5E1F0080DD55 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6F90DDE21395CAAA00125BDA /* InfoPlist.strings */; };
 		1756C9F019BE5E1F0080DD55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 281FB47D176694640071511D /* Main.storyboard */; };
 		1756C9F119BE5E1F0080DD55 /* RosyWriterViewController.h in Resources */ = {isa = PBXBuildFile; fileRef = 6F90DDEB1395CAAA00125BDA /* RosyWriterViewController.h */; };
-		1756C9F319BE5E1F0080DD55 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 28365598139FE71B00D09100 /* ReadMe.txt */; };
 		1756C9F419BE5E1F0080DD55 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7214DBCD182AEF8900EA3F99 /* Images.xcassets */; };
 		1756C9FC19BE5EE10080DD55 /* RosyWriterCIFilterRenderer.m in Sources */ = {isa = PBXBuildFile; fileRef = 1756C9D319BE5E080080DD55 /* RosyWriterCIFilterRenderer.m */; };
 		17E79A3519C8AD89004B709D /* ShaderUtilities.c in Sources */ = {isa = PBXBuildFile; fileRef = 6FF11C9316A877B100E14D71 /* ShaderUtilities.c */; };
@@ -51,12 +54,10 @@
 		1FCCE66119BA80A5009D7A6B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6F90DDE21395CAAA00125BDA /* InfoPlist.strings */; };
 		1FCCE66219BA80A5009D7A6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 281FB47D176694640071511D /* Main.storyboard */; };
 		1FCCE66319BA80A5009D7A6B /* RosyWriterViewController.h in Resources */ = {isa = PBXBuildFile; fileRef = 6F90DDEB1395CAAA00125BDA /* RosyWriterViewController.h */; };
-		1FCCE66619BA80A5009D7A6B /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 28365598139FE71B00D09100 /* ReadMe.txt */; };
 		1FCCE66819BA80A5009D7A6B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7214DBCD182AEF8900EA3F99 /* Images.xcassets */; };
 		262F9EB919A7CA8D001BB393 /* myFilter.fsh in Resources */ = {isa = PBXBuildFile; fileRef = 262F9EB519A7CA8D001BB393 /* myFilter.fsh */; };
 		262F9EBA19A7CA8D001BB393 /* myFilter.vsh in Resources */ = {isa = PBXBuildFile; fileRef = 262F9EB619A7CA8D001BB393 /* myFilter.vsh */; };
 		281FB47F176694640071511D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 281FB47D176694640071511D /* Main.storyboard */; };
-		28365599139FE71B00D09100 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 28365598139FE71B00D09100 /* ReadMe.txt */; };
 		5DBA2A9919C232E200530F7A /* Launch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DBA2A9719C232E200530F7A /* Launch.storyboard */; };
 		5DBA2A9A19C232E200530F7A /* Launch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DBA2A9719C232E200530F7A /* Launch.storyboard */; };
 		696D280B19CA539900A23D81 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F90DDE51395CAAA00125BDA /* main.m */; };
@@ -80,7 +81,6 @@
 		696D282119CA539900A23D81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 281FB47D176694640071511D /* Main.storyboard */; };
 		696D282219CA539900A23D81 /* Launch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DBA2A9719C232E200530F7A /* Launch.storyboard */; };
 		696D282319CA539900A23D81 /* RosyWriterViewController.h in Resources */ = {isa = PBXBuildFile; fileRef = 6F90DDEB1395CAAA00125BDA /* RosyWriterViewController.h */; };
-		696D282419CA539900A23D81 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 28365598139FE71B00D09100 /* ReadMe.txt */; };
 		696D282519CA539900A23D81 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7214DBCD182AEF8900EA3F99 /* Images.xcassets */; };
 		696D282B19CA548500A23D81 /* RosyWriterOpenCVRenderer.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1FCCE63019B92B1B009D7A6B /* RosyWriterOpenCVRenderer.mm */; };
 		696D282C19CA549100A23D81 /* RosyWriterCPURenderer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DC09BEF19B7F5100025A16E /* RosyWriterCPURenderer.m */; };
@@ -109,6 +109,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04EA358D1DC1CE6F006866D5 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 		171999D919C7695800A719B5 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
 		1756C9D319BE5E080080DD55 /* RosyWriterCIFilterRenderer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RosyWriterCIFilterRenderer.m; sourceTree = "<group>"; };
 		1756C9F919BE5E1F0080DD55 /* RosyWriterCIFilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RosyWriterCIFilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -120,7 +121,6 @@
 		262F9EB619A7CA8D001BB393 /* myFilter.vsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; name = myFilter.vsh; path = Resources/Shaders/myFilter.vsh; sourceTree = SOURCE_ROOT; };
 		269351C0156CB42100512474 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
 		281FB47E176694640071511D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = Resources/en.lproj/Main.storyboard; sourceTree = SOURCE_ROOT; };
-		28365598139FE71B00D09100 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 		5DBA2A9819C232E200530F7A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = Resources/en.lproj/Launch.storyboard; sourceTree = SOURCE_ROOT; };
 		5DC09BED19B7F1A70025A16E /* RosyWriterRenderer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = RosyWriterRenderer.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		5DC09BEE19B7F5100025A16E /* RosyWriterCPURenderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RosyWriterCPURenderer.h; sourceTree = "<group>"; };
@@ -261,7 +261,7 @@
 		6F90DDCA1395CAAA00125BDA = {
 			isa = PBXGroup;
 			children = (
-				28365598139FE71B00D09100 /* ReadMe.txt */,
+				04EA358D1DC1CE6F006866D5 /* ReadMe.txt */,
 				6F90DDDF1395CAAA00125BDA /* Classes */,
 				6FF11C8616A8778500E14D71 /* Utilities */,
 				AF052D151422BCEA00CD2D66 /* Other Sources */,
@@ -485,7 +485,7 @@
 				1756C9EF19BE5E1F0080DD55 /* InfoPlist.strings in Resources */,
 				1756C9F019BE5E1F0080DD55 /* Main.storyboard in Resources */,
 				1756C9F119BE5E1F0080DD55 /* RosyWriterViewController.h in Resources */,
-				1756C9F319BE5E1F0080DD55 /* ReadMe.txt in Resources */,
+				04EA35901DC1CE6F006866D5 /* ReadMe.txt in Resources */,
 				1756C9F419BE5E1F0080DD55 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -498,7 +498,7 @@
 				1FCCE66219BA80A5009D7A6B /* Main.storyboard in Resources */,
 				5DBA2A9A19C232E200530F7A /* Launch.storyboard in Resources */,
 				1FCCE66319BA80A5009D7A6B /* RosyWriterViewController.h in Resources */,
-				1FCCE66619BA80A5009D7A6B /* ReadMe.txt in Resources */,
+				04EA358F1DC1CE6F006866D5 /* ReadMe.txt in Resources */,
 				1FCCE66819BA80A5009D7A6B /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -511,7 +511,7 @@
 				696D282119CA539900A23D81 /* Main.storyboard in Resources */,
 				696D282219CA539900A23D81 /* Launch.storyboard in Resources */,
 				696D282319CA539900A23D81 /* RosyWriterViewController.h in Resources */,
-				696D282419CA539900A23D81 /* ReadMe.txt in Resources */,
+				04EA35911DC1CE6F006866D5 /* ReadMe.txt in Resources */,
 				696D282519CA539900A23D81 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -526,7 +526,7 @@
 				5DBA2A9919C232E200530F7A /* Launch.storyboard in Resources */,
 				6F90DDEC1395CAAA00125BDA /* RosyWriterViewController.h in Resources */,
 				262F9EB919A7CA8D001BB393 /* myFilter.fsh in Resources */,
-				28365599139FE71B00D09100 /* ReadMe.txt in Resources */,
+				04EA358E1DC1CE6F006866D5 /* ReadMe.txt in Resources */,
 				7214DBCE182AEF8900EA3F99 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
