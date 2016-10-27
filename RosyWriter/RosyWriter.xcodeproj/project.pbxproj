@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04EA35931DC1D0D1006866D5 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04EA35921DC1D0D1006866D5 /* ReadMe.txt */; };
+		04EA35951DC1D283006866D5 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04EA35941DC1D283006866D5 /* ReadMe.txt */; };
 		171999DA19C7695800A719B5 /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 171999D919C7695800A719B5 /* CoreImage.framework */; };
 		1756C9D619BE5E1F0080DD55 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F90DDE51395CAAA00125BDA /* main.m */; };
 		1756C9D719BE5E1F0080DD55 /* RosyWriterAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F90DDE91395CAAA00125BDA /* RosyWriterAppDelegate.m */; };
@@ -106,7 +106,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		04EA35921DC1D0D1006866D5 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ReadMe.txt; path = ../../ReadMe.txt; sourceTree = "<group>"; };
+		04EA35941DC1D283006866D5 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ReadMe.txt; path = ../ReadMe.txt; sourceTree = "<group>"; };
 		171999D919C7695800A719B5 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
 		1756C9D319BE5E080080DD55 /* RosyWriterCIFilterRenderer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RosyWriterCIFilterRenderer.m; sourceTree = "<group>"; };
 		1756C9F919BE5E1F0080DD55 /* RosyWriterCIFilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RosyWriterCIFilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -258,7 +258,7 @@
 		6F90DDCA1395CAAA00125BDA = {
 			isa = PBXGroup;
 			children = (
-				04EA35921DC1D0D1006866D5 /* ReadMe.txt */,
+				04EA35941DC1D283006866D5 /* ReadMe.txt */,
 				6F90DDDF1395CAAA00125BDA /* Classes */,
 				6FF11C8616A8778500E14D71 /* Utilities */,
 				AF052D151422BCEA00CD2D66 /* Other Sources */,
@@ -520,7 +520,7 @@
 				5DBA2A9919C232E200530F7A /* Launch.storyboard in Resources */,
 				6F90DDEC1395CAAA00125BDA /* RosyWriterViewController.h in Resources */,
 				262F9EB919A7CA8D001BB393 /* myFilter.fsh in Resources */,
-				04EA35931DC1D0D1006866D5 /* ReadMe.txt in Resources */,
+				04EA35951DC1D283006866D5 /* ReadMe.txt in Resources */,
 				7214DBCE182AEF8900EA3F99 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
