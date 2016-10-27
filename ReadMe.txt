@@ -11,7 +11,7 @@ The project includes a different target for each of the different processing pip
 Classes类
 RosyWriterViewController
 -- This file contains the view controller logic, including support for the Record button and video preview.
---这个文件包含了控制器的逻辑,包括录制按钮和视频预览图层
+--这个文件包含了控制器的逻辑,包括录制按钮和视频预览图层的创建
 RosyWriterCapturePipeline
 -- This file manages the audio and video capture pipelines, including the AVCaptureSession, the various queues, and resource management.
 --这个文件管理音频和视频采集管道,包括AVCaptureSession,各种队列queues和资源管理
